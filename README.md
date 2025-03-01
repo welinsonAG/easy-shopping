@@ -9,4 +9,4 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 <img src="https://github.com/welinsonAG/easy-shopping/blob/master/primeiropro.png?raw=true" /> 
-<img src="https://github.com/welinsonAG/easy-shopping/blob/master/EISYA.png?raw=true"/>
+<img src="https://github.com/welinsonAG/easy-shopping/blob/master/cellphone.png?raw=true"/>
